@@ -1,5 +1,8 @@
-Tahapan belajar GitHub
-1. belajar repo
-2. belajar comit
-3. belajar branch
-4. belajar merge
+Tahapan Belajar Github:
+1.belajar repo
+2.belajar comit
+3.belajar branch
+4.belajar marge
+5.belajar confict
+6.belajar pull
+7.belajar push
