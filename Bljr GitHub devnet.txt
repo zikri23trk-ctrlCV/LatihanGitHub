@@ -1,0 +1,5 @@
+Tahapan belajar GitHub
+1. belajar repo
+2. belajar comit
+3. belajar branch
+4. belajar merge
